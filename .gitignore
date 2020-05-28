@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+#Common IDE files to ignore
+.idea
+
 # BlueJ files
 *.ctxt
 
